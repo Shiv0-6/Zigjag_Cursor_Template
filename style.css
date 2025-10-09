@@ -1,0 +1,11 @@
+*{
+    margin :auto
+
+}
+header{
+    background-color: rgb(23, 13, 5);
+}
+
+h{
+    float:inline-end
+}
